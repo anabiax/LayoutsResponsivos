@@ -1,20 +1,20 @@
 # Projeto Apeperia
-<li>
-  <ul>análise das limitações físicas dos dispositivos; </ul>
+
+análise das limitações físicas dos dispositivos; 
   
-  <ul>linha de planejamento: layout p/ mobile, seguido do tablet e por fim desktop; </ul>
+linha de planejamento: layout p/ mobile, seguido do tablet e por fim desktop; 
   
-  <ul>limitação o tamanho de uma img -> unidades fixas; </ul>
+limitação o tamanho de uma img -> unidades fixas;
+
+utilização das unidades de viewport; 
   
-  <ul>utilização das unidades de viewport; </ul>
+semântica HTML -> legível, descritivo e estruturado; 
   
-  <ul>semântica HTML -> legível, descritivo e estruturado; </ul>
+recurso do emmet implementado com o objetivo de otimizar o tempo de escrita do código; 
   
-  <ul>recurso do emmet implementado com o objetivo de otimizar o tempo de escrita do código; </ul>
-  
-  <ul>media queries -> modularização de estilizações no mesmo arquivo CSS através das condições. 
-      Rever: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/</ul>
-</li>
+media queries -> modularização de estilizações no mesmo arquivo CSS através das condições. 
+      rever: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/</ul>
+
 
 
 
