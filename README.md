@@ -17,9 +17,11 @@ media queries -> modularização de estilizações no mesmo arquivo CSS através
       
 ### capturas de tela mobile
 
-![Captura de tela de 2022-11-28 09-05-01](https://user-images.githubusercontent.com/105956403/204273843-f16e20c0-5f80-45dc-9d02-c0af33b71a8d.png)
+![Captura de tela de 2022-11-28 09-07-38](https://user-images.githubusercontent.com/105956403/204274048-b6b7ddb2-60a5-4b62-9e3f-d82b32815c54.png)
 ![Captura de tela de 2022-11-28 09-05-28](https://user-images.githubusercontent.com/105956403/204273885-361b89b0-42f7-45a4-a2af-12f0c069d7b5.png)
-
+![Captura de tela de 2022-11-28 09-04-45](https://user-images.githubusercontent.com/105956403/204274094-280e8bff-7ac8-43bb-ad63-c2212ea11ca4.png)
+![Captura de tela de 2022-11-28 09-06-02](https://user-images.githubusercontent.com/105956403/204274134-a5cd4310-4419-490c-ac16-96b8d9fb1e50.png)
+![Captura de tela de 2022-11-28 09-06-16](https://user-images.githubusercontent.com/105956403/204274169-4ab41e9b-3f3b-4324-b070-96ea6958f5e3.png)
 
 ### capturas de tela desktop
 ![Captura de tela de 2022-11-28 08-34-35](https://user-images.githubusercontent.com/105956403/204267993-ef8826c2-8a31-4200-aa5c-e10fedfce1ea.png)
