@@ -16,10 +16,10 @@ media queries -> modularização de estilizações no mesmo arquivo CSS através
       rever: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
       
 ### capturas de tela mobile
-![Captura de tela de 2022-11-28 08-35-49](https://user-images.githubusercontent.com/105956403/204268600-dff8cd70-942c-4cfe-91ef-a5ecf03d290f.png)
-![Captura de tela de 2022-11-28 08-28-48](https://user-images.githubusercontent.com/105956403/204267019-e52626ec-0104-4b29-8ea7-3e66aa3e8c87.png)
-![Captura de tela de 2022-11-28 08-39-08](https://user-images.githubusercontent.com/105956403/204268857-dba3fe68-3576-4a30-a19e-cd29be068780.png)
-![Captura de tela de 2022-11-28 08-39-15](https://user-images.githubusercontent.com/105956403/204268879-3ac66592-e6c9-4c13-b626-42856ef62764.png)
+
+![Captura de tela de 2022-11-28 09-05-01](https://user-images.githubusercontent.com/105956403/204273843-f16e20c0-5f80-45dc-9d02-c0af33b71a8d.png)
+![Captura de tela de 2022-11-28 09-05-28](https://user-images.githubusercontent.com/105956403/204273885-361b89b0-42f7-45a4-a2af-12f0c069d7b5.png)
+
 
 ### capturas de tela desktop
 ![Captura de tela de 2022-11-28 08-34-35](https://user-images.githubusercontent.com/105956403/204267993-ef8826c2-8a31-4200-aa5c-e10fedfce1ea.png)
